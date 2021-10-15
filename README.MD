@@ -3,7 +3,8 @@
 ### Screenshot
 <img width="470" alt="aplikasi hewan" src="https://user-images.githubusercontent.com/90432889/137456811-ace85c66-d44c-42c2-b94c-d7806e08e152.PNG">
 
-
+### Link presentasi ide aplikasi
+https://drive.google.com/file/d/1oUYBpaZ2TLtNpcjFYUeREkslE65TKo2p/view?usp=sharing
 
 ### Built With
 - widget route dan navigation , scrolling, Image 
